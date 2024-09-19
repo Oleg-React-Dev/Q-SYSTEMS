@@ -1,0 +1,23 @@
+.position-filter-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.position-filter-container svg {
+    cursor: pointer;
+}
+
+.position-filter-content-wrapper, .position-filter-content, .position-filter-content-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.position-filter-content {
+    background-color: grey;
+    border-radius: 10px;
+    padding: 0 2px;
+}

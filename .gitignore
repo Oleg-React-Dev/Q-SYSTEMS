@@ -1,0 +1,26 @@
+# Node.js dependencies
+/node_modules
+
+# Build output
+/dist
+/build
+
+# IDE / Editor settings
+.vscode/
+
+# TypeScript build cache
+/*.tsbuildinfo
+
+# Dependency directories
+/node_modules/
+/.pnp/
+/.pnp.js
+
+# Webpack cache
+/.cache
+
+# Parcel cache
+/.parcel-cache
+
+# TypeScript cache
+*.tsbuildinfo
